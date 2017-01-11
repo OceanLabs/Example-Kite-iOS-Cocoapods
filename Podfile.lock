@@ -1,0 +1,24 @@
+PODS:
+  - Kite-Print-SDK (6.1.15):
+    - Kite-Print-SDK/ApplePay (= 6.1.15)
+    - Kite-Print-SDK/Facebook (= 6.1.15)
+    - Kite-Print-SDK/ImageProviders (= 6.1.15)
+    - Kite-Print-SDK/Instagram (= 6.1.15)
+    - Kite-Print-SDK/Lite (= 6.1.15)
+    - Kite-Print-SDK/PayPal (= 6.1.15)
+  - Kite-Print-SDK/ApplePay (6.1.15)
+  - Kite-Print-SDK/Facebook (6.1.15)
+  - Kite-Print-SDK/ImageProviders (6.1.15)
+  - Kite-Print-SDK/Instagram (6.1.15)
+  - Kite-Print-SDK/Lite (6.1.15)
+  - Kite-Print-SDK/PayPal (6.1.15)
+
+DEPENDENCIES:
+  - Kite-Print-SDK
+
+SPEC CHECKSUMS:
+  Kite-Print-SDK: bb8a846f870ce266ec158badcd7e137dcb4dc076
+
+PODFILE CHECKSUM: 5ad332959030841afe64d3d0c306ddb77b014b7b
+
+COCOAPODS: 1.0.1

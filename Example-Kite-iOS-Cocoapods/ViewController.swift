@@ -23,7 +23,6 @@ class ViewController: UIViewController {
 
     @IBAction func buttonAction(_ sender: UIButton) {
         OLKitePrintSDK.setAPIKey("a45bf7f39523d31aa1ca4ecf64d422b4d810d9c4", with: .sandbox)
-        OLKitePrintSDK.setApplePayMerchantID("merchant.ly.kite.sdk")
         let kiteViewController = OLKiteViewController.init(assets: [])
         present(kiteViewController!, animated: true, completion: nil)
     }
